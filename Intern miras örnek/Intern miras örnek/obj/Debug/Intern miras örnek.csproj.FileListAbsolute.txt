@@ -1,0 +1,9 @@
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern miras örnek\Intern miras örnek\bin\Debug\Intern miras örnek.exe.config
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern miras örnek\Intern miras örnek\bin\Debug\Intern miras örnek.exe
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern miras örnek\Intern miras örnek\bin\Debug\Intern miras örnek.pdb
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern miras örnek\Intern miras örnek\obj\Debug\Intern miras örnek.csprojResolveAssemblyReference.cache
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern miras örnek\Intern miras örnek\obj\Debug\Intern_miras_örnek.Form1.resources
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern miras örnek\Intern miras örnek\obj\Debug\Intern_miras_örnek.Properties.Resources.resources
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern miras örnek\Intern miras örnek\obj\Debug\Intern miras örnek.csproj.GenerateResource.Cache
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern miras örnek\Intern miras örnek\obj\Debug\Intern miras örnek.exe
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern miras örnek\Intern miras örnek\obj\Debug\Intern miras örnek.pdb

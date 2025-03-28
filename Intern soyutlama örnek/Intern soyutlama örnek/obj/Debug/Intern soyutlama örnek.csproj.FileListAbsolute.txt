@@ -1,0 +1,9 @@
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern soyutlama örnek\Intern soyutlama örnek\bin\Debug\Intern soyutlama örnek.exe.config
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern soyutlama örnek\Intern soyutlama örnek\bin\Debug\Intern soyutlama örnek.exe
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern soyutlama örnek\Intern soyutlama örnek\bin\Debug\Intern soyutlama örnek.pdb
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern soyutlama örnek\Intern soyutlama örnek\obj\Debug\Intern soyutlama örnek.csprojResolveAssemblyReference.cache
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern soyutlama örnek\Intern soyutlama örnek\obj\Debug\Intern_soyutlama_örnek.Form1.resources
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern soyutlama örnek\Intern soyutlama örnek\obj\Debug\Intern_soyutlama_örnek.Properties.Resources.resources
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern soyutlama örnek\Intern soyutlama örnek\obj\Debug\Intern soyutlama örnek.csproj.GenerateResource.Cache
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern soyutlama örnek\Intern soyutlama örnek\obj\Debug\Intern soyutlama örnek.exe
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern soyutlama örnek\Intern soyutlama örnek\obj\Debug\Intern soyutlama örnek.pdb

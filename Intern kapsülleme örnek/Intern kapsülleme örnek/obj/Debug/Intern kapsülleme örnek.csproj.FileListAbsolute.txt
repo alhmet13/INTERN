@@ -1,0 +1,9 @@
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern kapsülleme örnek\Intern kapsülleme örnek\bin\Debug\Intern kapsülleme örnek.exe.config
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern kapsülleme örnek\Intern kapsülleme örnek\bin\Debug\Intern kapsülleme örnek.exe
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern kapsülleme örnek\Intern kapsülleme örnek\bin\Debug\Intern kapsülleme örnek.pdb
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern kapsülleme örnek\Intern kapsülleme örnek\obj\Debug\Intern kapsülleme örnek.csprojResolveAssemblyReference.cache
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern kapsülleme örnek\Intern kapsülleme örnek\obj\Debug\Intern_kapsülleme_örnek.Form1.resources
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern kapsülleme örnek\Intern kapsülleme örnek\obj\Debug\Intern_kapsülleme_örnek.Properties.Resources.resources
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern kapsülleme örnek\Intern kapsülleme örnek\obj\Debug\Intern kapsülleme örnek.csproj.GenerateResource.Cache
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern kapsülleme örnek\Intern kapsülleme örnek\obj\Debug\Intern kapsülleme örnek.exe
+c:\users\alhus\onedrive\documents\visual studio 2015\Projects\Intern kapsülleme örnek\Intern kapsülleme örnek\obj\Debug\Intern kapsülleme örnek.pdb
