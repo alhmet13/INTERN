@@ -163,3 +163,18 @@ Kimlik doğrulama ve yetkilendirme, JWT, internet üzerinden güvenli iletişim 
 Tarayıcılar arası kaynak paylaşımı kontrolü, CORS, web tarayıcılarının farklı kaynaklardan gelen isteklere güvenli bir şekilde izin verip vermediğini kontrol eden bir güvenlik mekanizmasıdır. Web uygulamaları, genellikle başka domain'lerde barındırılan API'lerle etkileşimde bulunur. CORS, yalnızca doğru izinleri sağlayan kaynakların bu verilere erişmesine olanak tanır. Böylece, kötü niyetli sitelerin, kullanıcıların verilerini çalmaları veya kötüye kullanmalarının önüne geçilir. 
 ##### Rate Limiting
 Saldırılara karşı koruma, Rate limiting, bir kaynağa yapılan istek sayısını belirli bir süre içinde sınırlayan bir güvenlik önlemidir. Bu, sistemin aşırı yüklenmesini engeller, kötü niyetli saldırıları zorlaştırır ve kaynakların adil kullanılmasını sağlar. Örneğin, bir API'ye yapılan istek sayısı, aynı IP adresinden yapılan giriş denemeleri veya SMS/e-posta doğrulama talepleri sınırlanarak, sistemin güvenliği ve performansı korunur.
+
+
+## Front-End ve Back-End
+### Front-End nedir?
+Front-End, kullanıcıların bir web sitesinde veya bir uygulamada doğrudan etkileşimde bulunduğu yüzeydir. Bir web sitesinde veya uygulamada karşımıza çıkan tüm ögeler Front-End tir. Ancak Front-End'in tek görevi bu değildir. Bir sitenin performansını artırmak, kullanıcı deneyimini optimize etmek ve sitenin çeşitli tarayıcılarda ve cihazlarda sorunsuz çalışması gibi şeyler Front-End'de dahildir. Front-End geliştiricilerinin bilmesi gereken diller; HTML, CSS VE JavaScripttir. HTML; web sayfasında görülen başlıklar, paragraflar, listeler ve medya öğeleri gibi tüm içerikler, HTML ile tanımlanır. CSS; Bir web sayfasının renk düzeni, yazı tipleri, boşluklar, hizalamalar ve diğer stil unsurları CSS ile kontrol edilir. JavaScript, Kullanıcıların sayfada gerçekleştirdiği işlemler (örneğin, bir butona tıklamak, form doldurmak veya bir menü açmak) JavaScript ile yönetilir. 
+#### Front-End geliştiricilerinin rolü nedir?
+Front-End geliştiricilerinin temel rolü bir web sitesinin veya uygulamanın kullanıcı arayüzünü oluşturmaktır. Bunun yanında Front-End geliştiricilerinin kullanıcı deneyimi tasarımlarını da göz önünde bulundurması gerekir. 
+
+### Back-End nedir?
+Back-end; bir web sitesinin veya uygulamanın arka planda çalışan, kullanıcının doğrudan görmediği ancak site veya uygulamanın işlevselliğini sağlayan kısımdır. Back-end, sunucu tarafında çalışan uygulama mantığını, veri tabanını ve sunucular arasındaki iletişimi içerir. Back-End geliştiricilerinin bilmesi gereken diller; Python, Ruby, Java ve Node.js vs. gibi dillerdir.
+#### Back-End geliştiricilerinin rolü nedir?
+Back-end geliştiricileri, bir web sitesinin veya uygulamanın sunucu tarafındaki mantığını ve veri işlemlerini yönetir. Bu, kullanıcının gerçekleştirdiği işlemlerin arka planda nasıl işlendiğini, verilerin nasıl saklandığını ve sunucu ile istemci arasındaki iletişimin nasıl sağlandığını kapsar.
+
+### Front-End ve Back-End arasındaki farklar nedir?
+Front-end ve Back-end arasındaki temel fark, her iki alanın odaklandığı işlevler ve kullanılan teknolojilerdir. Front-end, kullanıcının gördüğü ve etkileşimde bulunduğu her şeyden sorumluyken, Back-end bu işlemlerin arka planda nasıl gerçekleştiğiyle ilgilenir. Front-end geliştiricileri, görsel tasarım ve kullanıcı deneyimine odaklanırken, Back-end geliştiricileri veri işleme, güvenlik ve performans konularında çalışır.
