@@ -1,2 +1,0 @@
-# INTERN
-Projelerim
