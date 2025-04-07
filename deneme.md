@@ -1,2 +1,0 @@
-# Yeni bir deneme yapıyorum
-
