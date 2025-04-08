@@ -1,0 +1,1 @@
+print("By beim ilk yazdığım")
